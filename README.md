@@ -54,5 +54,5 @@ Está rota precisa estar protegida por um middleware de validação do token JWT
 IMPORTANTE: Apenas administradores podem excluir qualquer usuário, usuários não-administradores podem apenas excluir seu próprio usuário.
 A rota de exclusão de usuário deve retornar um objeto com uma chave de nome "mensagem" com o valor "User deleted with success"
   
-##TESTES REALIZADOS:
+# TESTES REALIZADOS:
 ![image](https://user-images.githubusercontent.com/91137476/186178882-0cb456c8-dd0a-41a6-bb90-fe3c37e2fef6.png)
